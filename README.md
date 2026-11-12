@@ -15,3 +15,9 @@ The project demonstrates how to initialize a Git repository, track files, stage 
 ## What I Have Learned
 
 Through this practice, I have learned how to initialize a Git repository and connect it to GitHub. I now understand how to track files, stage changes, and create commits with meaningful messages. I have also learned how to push my local changes to a remote repository on GitHub. Additionally, I understand how Git maintains a history of changes, allowing me to track the progress of my project over time.
+
+## Git Commit History
+
+The screenshot below shows my Git commit history, including the commits made during this practice and my branching activities.
+
+![Git Commit History](screenshots/git-commit-history.png)
