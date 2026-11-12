@@ -1,0 +1,6 @@
+
+1. Learn HTML and understand how to structure web pages.
+2. Learn CSS and create responsive website designs.
+3. Learn JavaScript and understand programming fundamentals.
+4. Learn React and build interactive user interfaces.
+5. Learn Git and GitHub for effective version control and collaboration.
