@@ -5,4 +5,4 @@ Current Skill Level: Beginner
 
 Why I Want to Learn Frontend Development:
 I want to learn frontend development because I am interested in building interactive, responsive, and user-friendly websites. I want to develop the technical skills required to turn ideas and designs into functional web applications.
-Current Learning Focus: Building responsive and interactive web interfaces.
+Current Learning Focus: Building responsive and interactive web interfaces
